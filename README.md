@@ -16,6 +16,7 @@ Los datos se almacenan en una tabla users, incluyendo información básica como 
 Las contraseñas se almacenan utilizando algoritmos de encriptación proporcionados por Spring Security, asegurando que no se puedan leer en texto plano.
 Arquitectura del Proyecto
 El módulo sigue una estructura MVC (Modelo-Vista-Controlador), adaptada para servicios API REST.
+![image](https://github.com/user-attachments/assets/f9b5cbae-647e-45fa-9e28-18fb0456b8f9)
 
 1. Modelo
 Entidad User: Representa la tabla users en la base de datos. Incluye atributos como:
